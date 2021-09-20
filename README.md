@@ -5,6 +5,6 @@ $ make -f file.mk \
 $ ./a.out 
 
 
--> OUTPUT FILES WITH SUFFIX 1 HAVE TIME TAKEN STORED, FILES WITH SUFFIX 2 HAVE NUMBER OF COMPARISONS MADE STORED. \
--> GRAPHS (plotted using gnuplot) WITH SUFFIX 1 COMPARE SELECTION SORT AND BUBBLE SORT DATA WHILE THOSE WITH SUFFIX 2 COMPARE MERGE SORT AND QUICK SORT DATA (DUE TO SIMILAR RANGES).
+-> Output files with suffix 1 have time taken store; Files with suffix 2 have number of comparisons made stored. \
+-> Graphs (plotted using gnuplot) with suffix 1 compare selection sort and bubble sort data; those with suffix 2 compare merge sort and quick sort data (DUE TO SIMILAR RANGES).
 
