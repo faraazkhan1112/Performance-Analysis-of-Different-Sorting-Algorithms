@@ -1,7 +1,7 @@
 # Performance-Analysis-of-Different-Sorting-Algorithms
 Make file attached as file.mk \
 **To Execute**: \
-$ make -f file.mk \
+>$ make -f file.mk \
 $ ./a.out 
 
 
