@@ -1,4 +1,4 @@
-## ***Performance Analysis of Different Sorting Algorithms***
+## **Performance Analysis of Different Sorting Algorithms**
 Make file attached as file.mk \
 **To Execute**: 
 >$ make -f file.mk \
